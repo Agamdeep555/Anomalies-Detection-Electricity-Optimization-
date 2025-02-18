@@ -35,6 +35,14 @@ This project focuses on optimizing electricity consumption using machine learnin
 ✔️ Achieve **85%+ accuracy** in electricity consumption prediction.  
 ✔️ Contribute to environmental sustainability.  
 
+## 📊 Visualization  
+
+### 📈 Time-Series Forecasting for Electricity Consumption  
+![Electricity Consumption Forecasting](WhatsApp%20Image%202025-02-17%20at%2020.26.08_9bb4ab77.jpg)  
+
+### ⚡ Anomalies in Power Consumption of Washing Machine  
+![Washing Machine Consumption Anomalies](WhatsApp%20Image%202025-02-17%20at%2020.27.15_37917321.jpg)  
+
 ## 🎯 Expected Outcomes  
 ✅ **15% reduction in electricity bills**.  
 ✅ Accurate predictions of energy consumption.  
