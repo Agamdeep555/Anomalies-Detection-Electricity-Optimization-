@@ -46,7 +46,8 @@ This project focuses on optimizing electricity consumption using machine learnin
 ### ⚡ Anomalies in Power Consumption of Washing Machine  
 ![Washing Machine Consumption Anomalies]
 
-![WhatsApp Image 2025-02-17 at 20 27 15_e8b23391](https://github.com/user-attachments/assets/9e3a1344-b0d7-425f-80be-defd5c2a36a7)
+![WhatsApp Image 2025-02-21 at 22 05 53_8150acd5](https://github.com/user-attachments/assets/a40a97ee-b9e2-49bf-b753-c9189c24da31)
+
 
 
 ## 🎯 Expected Outcomes  
