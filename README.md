@@ -40,7 +40,8 @@ This project focuses on optimizing electricity consumption using machine learnin
 ### 📈 Time-Series Forecasting for Electricity Consumption  
 ![Electricity Consumption Forecasting]
 
-![WhatsApp Image 2025-02-17 at 20 26 08_8e4cd4ed](https://github.com/user-attachments/assets/ca89503e-006c-4478-b527-948ecc987b53)
+[![image](https://github.com/user-attachments/assets/56f94c09-7ae3-4fdb-a588-96d408d0d05a)
+
 
 ### ⚡ Anomalies in Power Consumption of Washing Machine  
 ![Washing Machine Consumption Anomalies]
